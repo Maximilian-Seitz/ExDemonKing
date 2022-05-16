@@ -1,0 +1,106 @@
+p {
+	text-align: justify;
+}
+
+blockquote > p:before, 
+blockquote > p:after {
+	content: '"'
+}
+
+@media screen {
+	:root {
+		--bg-color: #262626;
+		--fg-color: #888888;
+		--highlight-color: #d1bc82;
+		--text-font: Verdana, sans-serif;
+		/*--text-font: "Trebuchet MS", Helvetica, sans-serif;*/
+	}
+
+	body {
+		padding: 0;
+		padding-bottom: 100%;
+		margin: 0;
+		width: 100%;
+		max-width: 100%;
+		color: var(--fg-color);
+		font-family: var(--text-font);
+		background-color: var(--bg-color);
+	}
+	
+	p, h1, .nav {
+		margin: 0;
+		padding: 8px 16px;
+	}
+	
+	#content h1:not(:first-child) {
+		padding-top: 40px;
+	}
+	
+	h1 {
+		font-size: 40px;
+		line-height: 1.4;
+	}
+	
+	p, span, em, .nav {
+		text-indent: 0px;
+		font-size: 26px;
+		line-height: 1.4;
+	}
+	
+	.nav select {
+		color: var(--fg-color);
+		font-family: var(--text-font);
+		background-color: var(--bg-color);
+		font-size: 16px;
+	}
+	
+	.nav a {
+		color: orange;
+		font-size: 26px;
+	}
+	
+	.nav a[invalid] {
+		display: none !important;
+	}
+	
+	.nav {
+		display: flex; /* displays flex-items (children) inline */
+		justify-content: space-between; /* MDN: The items are evenly distributed within the alignment container along the main axis. The spacing between each pair of adjacent items is the same. */
+		align-items: center; /* centers them vertically */
+	}
+	
+	.nav * {
+		text-align: center;
+	}
+}
+
+@media print {
+	.nav {
+		display: none !important;
+	}
+	
+	h1 {
+		page-break-before: always;
+	}
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: var(--bg-color);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: var(--fg-color); 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--highlight-color); 
+}

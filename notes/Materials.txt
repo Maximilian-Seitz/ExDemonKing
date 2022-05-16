@@ -1,0 +1,14 @@
+OG country
+	Apples
+	Cherries
+
+Jungle city
+	Red fruits
+		- With hard, inedible shells
+		- Twice as large as a fist
+	Leaves
+		- Larger than a torso
+		- Beat using rocks to get fibres
+	Volcanic rocks
+		- Matt black
+		- Used to make jagged knives

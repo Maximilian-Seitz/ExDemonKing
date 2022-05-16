@@ -1,0 +1,12 @@
+Goblins
+	- Goblins
+
+Trolls
+	- Fast
+	- Live in mountain caves (maybe elsewhere aswell)
+	- Active at night
+	- ~3mx3m
+	- Usually on all fours, built like gorillas (they're basically huge gorillas)
+
+Harpies
+	- Live high in the mountains (maybe elsewhere aswell)

@@ -1,0 +1,14 @@
+{
+	"title": "Ex Demon King",
+	"allChaptersTitle": "- All Chapters -",
+	"titlePattern": "${title}: ${chapterTitle}",
+	"chapterTitlePattern": "Chapter ${num} - ${name}",
+	"chapters": [
+		{ "name": "Prologue", "file": "Prologue.md", "chapterTitlePatternOverride": "${name}" },
+		{ "name": "Escape", "file": "Chapter_1.md" },
+		{ "name": "A rough start", "file": "Chapter_2.md" },
+		{ "name": "Setting off", "file": "Chapter_3.md" },
+		{ "name": "An old acquaintance", "file": "Chapter_4.md" },
+		{ "name": "New lands", "file": "Chapter_5.md" }
+	]
+}
