@@ -1,6 +1,6 @@
 
 (async () => {
-	await include('scripts/showdown/dist/showdown.min.js')
+	await include('https://unpkg.com/showdown/dist/showdown.min.js')
 	await include('scripts/template.js')
 	
 	async function loadText(path) {
