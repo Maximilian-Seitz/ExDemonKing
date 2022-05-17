@@ -333,3 +333,37 @@ became more irritating once I realized this.
 My enthusiasm for possible the trades I imagined myself having faded.
 I stopped mingling from then on.
 
+Having kept my eyes down, it had been long into view before I noticed it.
+The plateau.
+It had been covered by the trees, but now it's majesty was mostly revealed.
+As far as was possible from the ground, at least.
+I expected only a bird to have ever seen the true form of the city,
+unhindered by trees, hills or rocks.
+What I saw looked like jagged rocks at first sight, but covered with people.
+On closer inspection it became clear that these were stairs.
+Stairs as wide as the city, domesticating this natural rock formation.
+They were interrupted by natural stone in some sections,
+creating walls or platforms,
+but the masses moving up and down filled most of the space.
+
+Above the stairs towered many man-made structures.
+I was hesitant to call them buildings,
+as they reminded me more of a military complex,
+with robust stone seemingly capable of
+withstanding most attacks levied against it.
+The only clue as to the opposite was the lack of a cohesive wall,
+allowing those willing to scale the stairs free entry.
+
+Barely any portion of these rocks had remained untouched by human hands.
+The buildings on top appeared to have been constructed from the
+materials gathered from the stone beneath them,
+raising an entire city from the ground.
+I had heard of, and seen, many conquests of men in the past.
+Castles destroyed and cities burnt, all of them aiming at their fellow humans,
+but none compared to this conquest against nature itself.
+
+<!--
+My concentration on the stone city was only broken once I tripped on a root,
+almost falling into another pedestrian.
+-->
+
