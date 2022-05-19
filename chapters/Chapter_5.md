@@ -362,8 +362,64 @@ I had heard of, and seen, many conquests of men in the past.
 Castles destroyed and cities burnt, all of them aiming at their fellow humans,
 but none compared to this conquest against nature itself.
 
-<!--
-My concentration on the stone city was only broken once I tripped on a root,
-almost falling into another pedestrian.
--->
+My infatuation with the stone city was only broken once I tripped on a root,
+almost tumbling into another pedestrian.
+The base of the stairs had come into view since I had been captivated,
+and there I saw openings, worked into the wall.
+Beneath some platforms entrances were carved,
+leading to caves, frequented by passer-byes.
+I counted at least half a dozen levels of such entrances on the stairs,
+making them a major traffic route, even compared to the market I was leaving.
+
+Some of the biggest of these holes were located at the very base.
+I found what I was looking for among these.
+Sheltered by cloth, suspended between poles, stood horses,
+lined up next to each other, tied to sticks in the ground.
+Leaves were piled before them as food,
+leading me to speculate weather these leaves were edible by humans.
+After remembering that horses ate grass, I gave up on the idea,
+and started looking for someone associated with these animals instead.
+
+The only one who appeared responsible for the horses was a woman
+employing a sort of paddle to rotate the leaves.
+She looked native, suggested by her tan skin,
+and wore pants that reached just below her knees.
+Her chest was wrapped in fabric, leaving her stomach and shoulders both exposed.
+I couldn't know if she could help me until I tried, so I approached her,
+getting her attention even through the crowd.
+
+> Greetings.
+
+> Hello. Have you been sent in search for a stable?
+
+The intonation of her speech was partially off, and she spoke with long breaths,
+as if connecting the sentence into a single word.
+Still, I hadn't expected to be greeted this articulately
+by what was essentially a farmhand.
+In my experience even writing was a skill
+not taught to many in these professions,
+let alone the ability to converse with those from another land.
+
+> No, it's employment for adventurers I seek.
+
+> Ah… They gather there.
+
+She pointed towards an opening above and to the right
+of the one this stable seemed to belong to.
+
+> Thank you for your help.
+
+> Good luck on your search.
+
+Leaving me with a big smile, she returned to her work.
+I, on the other hand, walked towards the ground below the location
+this kind woman pointed out.
+A more direct route would had been possible,
+but I felt uncomfortable at the thought of having to cut
+through the crowd diagonally on an incline.
+The movement was chaotic enough as it was,
+making me hesitant to disturb it further.
+Uneven steps, worked into the rough material, delivered me through the people.
+The tunnel, as wide as an arm span, lead into a pillar,
+towards what I hoped to make into my new life.
 
