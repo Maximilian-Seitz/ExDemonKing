@@ -409,9 +409,9 @@ of the one this stable seemed to belong to.
 
 > Thank you for your help.
 
-> Good luck on your search.
+> Good luck…
 
-Leaving me with a big smile, she returned to her work.
+Leaving me with a concerned smile, she returned to her work.
 I, on the other hand, walked towards the ground below the location
 this kind woman pointed out.
 A more direct route would had been possible,
