@@ -28,7 +28,7 @@ If money was needed for my goals, I had to acquire some.
 I sighed.
 
 Ways to make money were boundless, but most weren't an option for me.
-Nether time nor skill was afforded to me.
+Neither time nor skill was afforded to me.
 What remained was trading.
 It meant I had to gather things of value.
 Likely through hunting.
@@ -38,7 +38,7 @@ If I didn't stumble across a village, it would be essential.
 Lack of a weapon made this difficult, but, I hoped, not impossible.
 
 Creatures of the forest were stealthy and fast.
-I was nether.
+I was neither.
 Only one method elevated me above a common mouse.
 I had magic.
 Limited as ability was, the spell I had learned was perfect.
@@ -295,7 +295,7 @@ Leading me towards the barn, Greg turned to look at me.
 
 > Your choice.
 
-I was nether hungry nor tired.
+I was neither hungry nor tired.
 Invigorated by the many elixirs I had consumed,
 I anticipated not needing any sleep for a few days.
 Healing was the main effect, but all ailments vanished from the concoction,

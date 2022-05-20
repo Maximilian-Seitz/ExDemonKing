@@ -111,7 +111,7 @@ I lay down, ready to sleep, doing my best to ignore my observer.
 
 > You seem agitated. Let us finish our conversation once you've rested.
 
-Nether the years without sleep,
+Neither the years without sleep,
 nor the hard floor kept me from dozing off for long.
 The dreamless night progressed without interruption,
 leaving me to make up for the accumulated exhaustion.

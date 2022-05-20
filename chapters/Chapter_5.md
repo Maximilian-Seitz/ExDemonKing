@@ -145,7 +145,7 @@ Most of the guard I met spared me little attention,
 and others lost interest when they noticed the rusty dagger in my belt.
 I appreciated the privacy they afforded me.
 Apart from wagons, I encountered no others.
-Nether horseback riders nor travelers by foot crossed my path,
+Neither horseback riders nor travelers by foot crossed my path,
 likely due to the length of the journey
 the mountains force upon any who would traverse them.
 

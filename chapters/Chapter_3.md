@@ -137,7 +137,7 @@ I found a remaining stool for myself.
 
 So the cook of the feast instructed.
 
-> Oh, I never introduced myself! And knowing my husband, nether did he.
+> Oh, I never introduced myself! And knowing my husband, neither did he.
 > Name's Margret.
 
 > I'm Martin. Thank you for the meal.
@@ -403,7 +403,7 @@ There was no deeper plan behind my actions.
 I had come here because there was nowhere else for me to go,
 but I was unsure of what I could gain.
 The lights marking the border seemed increasingly inviting.
-Nether option was good.
+Neither option was good.
 Would the guards recognize me, or would the torrents rip me apart?
 
 I had no answer, so I decided to eat.

@@ -125,7 +125,7 @@ No matter. Any camouflage was welcome.
 More trouble came from my limbs having sunk into the ground.
 The lighter goblins wouldn't be hindered like this,
 whereas the boars would simply power through.
-Nether was an option for me, so I worked to extract my feet.
+Neither was an option for me, so I worked to extract my feet.
 
 By the time I had managed to free one limb, my presence had long been detected.
 It wasn't only my presence though. Goblins came to my aid in droves.
@@ -217,7 +217,7 @@ The recovery could wait until I was fully safe.
 Stiff movements brought me to my feet.
 Swaying slightly, I press onto my wound, turning towards the darkness.
 Another obstacle I hadn't taken into account.
-With me was nether bag nor weapon.
+With me was neither bag nor weapon.
 The plan was, after all, for me to die.
 
 The only things on me was what I wore.
@@ -225,7 +225,7 @@ The signature equipment.
 In my belt was space for three vials.
 Now there was one missing, one empty, and one full.
 On my back was a cloak.
-It was purely decorative, providing nether warmth nor protection.
+It was purely decorative, providing neither warmth nor protection.
 The once red shoulder-pads had been colored brown and the black velvet torn.
 If not for the lack of clothes otherwise, I would have discarded it.
 Other than the cloak, there wasn't much covering my upper body anymore.
@@ -344,7 +344,7 @@ I had to find another way.
 
 Approaching the tunnel section beneath my enemy, I detected not a twitch.
 Weather it was inattentive or patient, I couldn't tell.
-Since I was nether willing to step into it's trap,
+Since I was neither willing to step into it's trap,
 nor able to initiate out fight, I needed to lure it somehow.
 Chances of survival were slim, should it drop on my head.
 

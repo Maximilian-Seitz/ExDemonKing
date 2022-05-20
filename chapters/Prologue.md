@@ -100,7 +100,7 @@ There, he kneeled. Barely keeping his body from falling over,
 as spasms shot through him periodically.
 The fog was nowhere to be seen, but I knew what had happened.
 It was evident that the hero was in no condition to fight.
-Nether was I. Not that I had intended to.
+Neither was I. Not that I had intended to.
 My mind only focused on one thing. Escape. Before it was too late.
 
 So I pushed myself off the ground.
