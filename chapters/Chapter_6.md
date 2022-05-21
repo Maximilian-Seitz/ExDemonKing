@@ -63,3 +63,39 @@ Poverty wasn't the only force that lead people here,
 but no sense of pride, or desire for revenge,
 would stop the bleeding from a goblin's knife.
 
+I stepped towards the local who stood behind the bar,
+having lost the sense of disassociation, I had had in the market.
+These were outcasts, so how could I not belong?
+The man who's age I couldn't gage,
+was engaged in conversation before he noticed my approach, and turned to me.
+Beneath his bold head, and smooth skin, lay the soul of a warrior,
+not shining golden, like Fate's, but imitating cold, hard steel.
+His clothes were, unlike those of the other inhabitants of this city,
+quite similar to mine.
+
+> Greetings. I seek employment for an adventurer. Can you help me?
+
+> Right… What's your timetable?
+
+Seemingly sensing my trouble answering, he spoke again.
+
+> How fast do you need the coin?
+
+> My rations have almost run dry. It is rather urgent.
+
+> Ever killed anything before?
+
+> I've killed goblins and slimes.
+
+I felt his analytical look quickly scan me, before he looked through the room,
+slightly raised his head, and shouted towards someone.
+
+> Roy, still need another body?
+
+The answer came not verbally, but in the form of a burly man,
+who pushed through some people next to me.
+Clad in leather armor, and adorned with a sword by his hip,
+he looked ready for a fight. His origin seemed similar to mine.
+
+> 'Bout to head out, but sure.
+
