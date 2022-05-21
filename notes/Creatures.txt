@@ -1,3 +1,7 @@
+Slimes
+	- Held together by magic power
+	- Can drop on people, and melt/poison them
+
 Goblins
 	- Goblins
 

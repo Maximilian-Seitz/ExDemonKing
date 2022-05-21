@@ -6,9 +6,9 @@ MC
 Hero (Martin)
 
 Demon King (unnamed)
-	- Fog of smoke (purple)
 	- Used to posess MC
 	- Now posesses the hero, Martin
+	* Demon: Fog of smoke (purple)
 
 Greg
 	- Farmer MC met after escaping Demon King
@@ -29,6 +29,47 @@ Ben
 Margret
 	* Greg's wife
 	* Can't walk
+
+
+
+-- Shatter Valley --
+
+Fate (a.k.a. Immortal Sphynx)
+	- Was imprisoned by DK
+	- Died imprisoned, when giving the MC a feather for 'protection'
+	* Sphynx - Soul appears to shine golden
+	* Distributes the power to wield the holy sword to a hero
+	* Servant of the gods
+	* Will revive eventually
+
+
+
+-- Stone City --
+
+Stable Girl
+	- Told MC where adventurers met
+	* Native
+	* Kind
+	* Knows other languages, because of the many travelers she meets
+
+Barkeeper (Adventurer's Bar)
+	* Native
+	* Speaks many languages, from meeting adventurers
+	* Responsible for distributing jobs to adventurers
+	* Used to be an adventurer himself, and is sometimes still active
+	* Aura: Like cold steel
+
+Roy (Adventurer)
+	* Burly
+
+
+
+
+
+
+
+
+
 
 
 
