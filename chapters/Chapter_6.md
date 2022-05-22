@@ -152,7 +152,7 @@ if my assumption about the appearances of souls was correct.
 An open chest stood to one side of the table, almost reaching it in height.
 Various pieces of equipment were strewn inside,
 ranging from weapons and armor to shields and cloaks.
-When I arrived, Roy lay his hand on the brim of the chest,
+When I arrived, Roy dropped his hand on the brim of the chest,
 as if to point it out.
 
 > Grab some arm guards and a sword from here, and put 'em on.
