@@ -85,17 +85,77 @@ Seemingly sensing my trouble answering, he spoke again.
 
 > Ever killed anything before?
 
-> I've killed goblins and slimes.
+> I've slain goblins and slimes.
 
 I felt his analytical look quickly scan me, before he looked through the room,
 slightly raised his head, and shouted towards someone.
 
 > Roy, still need another body?
 
-The answer came not verbally, but in the form of a burly man,
-who pushed through some people next to me.
+The answer came not verbally, but in the form of a burly man
+pushing through some people next to me.
+His familiar looking middle aged face was covered in thick stubbles
+and accompanied by short black hair.
 Clad in leather armor, and adorned with a sword by his hip,
-he looked ready for a fight. His origin seemed similar to mine.
+he looked ready for a fight, but his spirit suggested a much harsher reality.
+Red. That would be his color, if I had to ascribe one to him.
+
+He didn't radiate his strength in any way,
+but it was demonstrated by the details his self-image produced.
+An image that mimicked his physical appearance fairly accurately,
+only differing in one important way. Blood covered his body.
+Much of it clung to him, as if he had just slaughtered a pig,
+while other places showed clear scrapes and gashes.
+He looked like a last survivor standing on a battlefield.
 
 > 'Bout to head out, but sure.
+
+> You know the details?
+
+Quickly having picked me out as the offered candidate, he addressed me.
+
+> No.
+
+> Well, we go 'round the city, clearing out all the treelins we can find.
+> We get a commission for every one we kill.
+> Since you don't look like you can fight, you're gonna have to scout.
+> It's dangerous, but everyone gets the same pay,
+> so you're gonna have to make yourself useful.
+
+> You'll get a sword and some arm-pads lent, even as a scout,
+> but you can be a fighter if you want to.
+> Not that I'd recommend it, if you can't swing a sword.
+
+If every participant received the same portion of pay,
+I expected to receive enough compensation to feed me, at least.
+In addition to that, scouting likely fit my abilities.
+All in all, it was within the realm of what I had expected.
+It seemed acceptable for my first contract.
+
+> Scouting would be acceptable, though I've not heard of treelins before.
+
+> Just think of a furry fuckin' goblin jumpin' through trees.
+
+The thought gave me shivers, but I doubted much easier work was to be found,
+so I gave a nod in response to his description.
+
+> All right. Come on.
+
+Waving his hand to follow him, Roy returned through the gap he came by.
+Passing some patrons, we arrived at a table surrounded by about ten people,
+including my guide.
+The group was using the space to prepare for combat, putting on boots,
+helping each other don some pieces of armor or inspecting their weapons.
+Most of them seemed to be of average strength,
+if my assumption about the appearances of souls was correct.
+
+An open chest stood to one side of the table, almost reaching it in height.
+Various pieces of equipment were strewn inside,
+ranging from weapons and armor to shields and cloaks.
+When I arrived, Roy lay his hand on the brim of the chest,
+as if to point it out.
+
+> Grab some arm guards and a sword from here, and put 'em on.
+> If you need help, ask someone here.
+> We're gonna head out when everyone's ready.
 
