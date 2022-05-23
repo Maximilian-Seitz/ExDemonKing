@@ -561,7 +561,7 @@ Calm returned.
 
 I fell into thought.
 Being compared to someone's brother felt odd, much more so than an elf.
-Even I hadn't seen an elf before, but I didn't feel human ether.
+Even I hadn't seen an elf before, but I didn't feel human either.
 I wasn't sure if I still was.
 Reflecting on what had just transpired,
 I judged it to have been the devouring of a soul.

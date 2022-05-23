@@ -61,7 +61,7 @@ leaving what would have been a sheer cliff, if not for that blockade.
 My goal was down.
 
 I recoiled at the thought of what I had to do,
-but it was ether this, or continuing to the top of the mountain.
+but it was either this, or continuing to the top of the mountain.
 A mountaintop crawling with demons.
 My choices were, as was becoming a trend, all deadly.
 

@@ -321,7 +321,7 @@ magical patterns constructed their own circuits.
 
 While I pondered over these things, I tread carefully through the darkness.
 A wall. It seemed I had reached an intersection.
-Between the path leading in ether direction, I chose the one leading left.
+Between the path leading in either direction, I chose the one leading left.
 Scratches appeared on my hand, as I slid it along the wall.
 No other sensations remained.
 Blinded, on the quiet descent, I focused.
