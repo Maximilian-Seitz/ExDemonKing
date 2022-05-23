@@ -159,3 +159,93 @@ as if to point it out.
 > If you need help, ask someone here.
 > We're gonna head out when everyone's ready.
 
+I did as I was told, and searched through the chest.
+Finding a pair of fitting, let alone matching, protective pads in this chaos
+would take some rummaging, so I inspected the contained weaponry first.
+I had never held a proper sword before,
+so there wasn't anything specifically I was looking out for.
+Still, there was something that caught my eye.
+They were all exceptionally short.
+Not quite as short as my dagger, but none exceeded thrice it's size.
+
+Getting close to a creature as terrifying as a leaping goblin
+was already horrifying enough, but doing so
+without being able to keep proper distance wasn't something I dared.
+Thankfully, the description of my task didn't make it sound like
+that was asked from me.
+In case I really did need a weapon,
+I trusted my dagger to be of more utility than something I hadn't ever used.
+Instead of a sword, something else caught my eye.
+
+> Am I correct to assume that I won't have to attack directly?
+
+Roy, who was finishing his preparations next to me, nodded.
+
+> Yup. Sword's just in case.
+
+> Then would it be all right if, instead of a sword, I borrowed this?
+
+After using both hands to extract it from what was piled on top,
+I produced a shield from the container.
+Scratched leather bound the round wooden board that made up it's body.
+Two straps were the only other feature it possessed,
+but with a width that surpassed my shoulders, I felt somewhat safe behind it.
+
+> Fine by me.
+> If you loose it, you're gonna have to make up for it, just so you know.
+
+> Of course. Thank you.
+
+With the shield I only needed a single guard, which I had less trouble finding.
+Before I had a chance to try putting it on though, Roy took it from me,
+and quickly bound it to my arm.
+He then closed the chest we stood next to,
+locked it with a heavy key, and pushed it under the table.
+What would have been an impressive feat
+for an ordinary person looked trivial to him.
+
+It seemed I had held up the group with my preparations,
+as everyone started moving once he stood back up, and gave a nod.
+I, too, followed.
+The group, as a whole,
+seemed to know where we were headed without Roy at the charge,
+suggesting that this had either been discussed before I had arrived,
+or that this was something they had gone through before.
+
+After leaving the building, we descended the stairs and then went sideways,
+staying close to the base of the rock.
+Walking along this slanted section of the city,
+I saw people carrying goods up and down,
+and entering and leaving the many openings.
+None of it gave me any hint as to some special purpose these had,
+or if they were treated just like any other buildings.
+The location of the adventurers' gathering spot suggested the latter,
+but it, too, wasn't quite an ordinary building.
+
+Following the group I found myself in was exceptionally easy,
+even while I was distracted by my surroundings,
+from how much they stood out.
+There were the souls of the strongest among them, of course,
+but even without the help of my spell,
+it was clear that these weren't ordinary citizens.
+Collectively, we must have looked like a party of invaders,
+but this time I drew less attention to myself,
+having my companions to share it with.
+
+We soon arrived at the end of the stairs.
+To my surprise not all sides were equipped with them,
+and we instead found a sheer wall on the edge of the rock.
+Opposed to the middle of the city, where we had come from,
+barely any people could be found closer to this wall.
+Where, there, the forest had been taken over,
+here, the jungle started directly adjacent to the cliff.
+It felt menacing.
+
+Having a way to flee into the city provided a certain level of safety
+which this wall denied.
+If anyone in the jungle, next to it, wanted to flee,
+they had to return to this last safe location we were at right now,
+since scaling this wall was out of the question.
+That was probably why this marked the end of where people set foot.
+We also stopped here, and caught up to each other.
+
