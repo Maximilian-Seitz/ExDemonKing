@@ -243,9 +243,11 @@ It felt menacing.
 
 Having a way to flee into the city provided a certain level of safety
 which this wall denied.
-If anyone in the jungle, next to it, wanted to flee,
+If anyone between it and the jungle wanted to flee,
 they had to return to this last safe location we were at right now,
-since scaling this wall was out of the question.
+since scaling the wall was out of the question.
 That was probably why this marked the end of where people set foot.
-We also stopped here, and caught up to each other.
+We also stopped here, in order to catch up to each other.
+
+
 
