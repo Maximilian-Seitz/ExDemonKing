@@ -295,8 +295,9 @@ A target which was moving directly towards us.
 Watching my comrade dashing through the dense forest,
 ducking and jumping as he went along,
 I resolved myself to stay hidden until combat was over.
-My task wasn't to fight, but to follow the example set here.
-Unsure of my ability to mimic these movements, anxiety grew within me.
+My task wasn't to fight, but to follow the example set right now.
+Unsure of my ability to mimic the movements displayed here,
+anxiety grew within me.
 I had run from goblins before, but they were laughable in comparison.
 
 Nobody moved while our foe approached, coming closer and closer.
@@ -307,7 +308,7 @@ Then, a slash. A single slash.
 That was all it took to tear open the creature's chest, killing it.
 A slash so quick that it left me wondering what had happened.
 
-Then there it lay.
+Then, there it lay.
 Reddish brown fur covered the corpse from head to finger-like toe.
 Other than it's size, nothing about it resembled a goblin,
 but it was still equally grotesque.
@@ -318,13 +319,18 @@ and adorned by a sharp claw.
 A tail was visible from behind it's back,
 long and firm enough to serve as another limb.
 
-It was none of that which caused my sense of discomfort at it's sight,
+None of that was what caused my sense of discomfort at it's sight though,
 but it revolting maw.
 Sharp teeth lay bare, covering the majority of it's grimace,
 just below two holes that made up it's nose.
 All of this was accentuated by it's beady eyes,
 still gleaming with hatred, even after it's death.
 
-<!-- A figure rose from the recently slain body. -->
-<!-- TODO: describe the soul being torn apart between them -->
+<!--
+It hadn't been dead for long, before movement began again.
+This time, invisible.
+A figure rose from the recently slain body,
+reminiscent of the one that left the goblin I had killed.
+TODO: describe the soul being torn apart between them
+-->
 
