@@ -243,11 +243,88 @@ It felt menacing.
 
 Having a way to flee into the city provided a certain level of safety
 which this wall denied.
-If anyone between it and the jungle wanted to flee,
-they had to return to this last safe location we were at right now,
+Anyone flanked by both it and the jungle wanting to flee,
+would have to return to this last safe location we were at right now,
 since scaling the wall was out of the question.
 That was probably why this marked the end of where people set foot.
-We also stopped here, in order to catch up to each other.
+We also stopped here, catching up to each other.
+When I reached the group, Roy faced me.
 
+> Stick with us for now. You're not gonna know what to look out for anyway.
+> I'll send you out in the second round.
 
+> It's your job to lure a treelin in. We're gonna kill it.
+> Just make sure you only grab one at a time.
+> And don't die.
+
+They were welcome instructions, as I had feared having to learn during combat.
+In retrospect, I thought that fear to be unfounded,
+since I was of more use to them trained, rather than dead.
+Looking around, at the other participants,
+it seemed only a small portion had followed the conversation.
+Among those who hadn't, some looked agitated,
+some bored, and some busied themselves.
+They mostly gave off the impression of this being standard procedure to them.
+
+It was a comforting sight, but didn't last long.
+With a wave of our leader's hand, they began to move,
+starting with one of the weaker members,
+who charged ahead, into the undergrowth.
+Everyone else followed, now very careful and quiet.
+As the foliage wrapped around me, I felt my skin crawl,
+remembering the multitude of bugs who made it their home.
+
+Our trudge didn't take us far into the woods,
+before everyone around me hid between leaves or vines.
+Once I caught on, I followed their example,
+finding myself a winding tree, covered by a huge fern, to crouch beneath.
+Quiet descended upon our location,
+and only small physical signs remained of our presence at all.
+I would have lost track of my group, if not for their auras giving them away.
+It wasn't the auras of the ones around me I was looking out for though,
+but the single soul that had left us behind.
+
+My anticipation was soon relieved,
+when it came back into sight, along with another being in tow.
+The second creature was, just as described, the size of a goblin.
+What wasn't like a goblin's, was the movement.
+Chaotically jumping from point to point, it gave the impression of a flea
+staying off the ground and just behind it's target.
+A target which was moving directly towards us.
+
+Watching my comrade dashing through the dense forest,
+ducking and jumping as he went along,
+I resolved myself to stay hidden until combat was over.
+My task wasn't to fight, but to follow the example set here.
+Unsure of my ability to mimic these movements, anxiety grew within me.
+I had run from goblins before, but they were laughable in comparison.
+
+Nobody moved while our foe approached, coming closer and closer.
+Even as the scout ran beyond us, everyone stayed quiet,
+until the target of our hunt was surrounded, caught within our trap.
+Bursting from their hideouts, four of our group trapped the demon.
+Then, a slash. A single slash.
+That was all it took to tear open the creature's chest, killing it.
+A slash so quick that it left me wondering what had happened.
+
+Then there it lay.
+Reddish brown fur covered the corpse from head to finger-like toe.
+Other than it's size, nothing about it resembled a goblin,
+but it was still equally grotesque.
+All four of it's limbs, much too long for it's body,
+were endowed with appendages resembling fingers,
+but warped by the inclusion of an additional knuckle,
+and adorned by a sharp claw.
+A tail was visible from behind it's back,
+long and firm enough to serve as another limb.
+
+It was none of that which caused my sense of discomfort at it's sight,
+but it revolting maw.
+Sharp teeth lay bare, covering the majority of it's grimace,
+just below two holes that made up it's nose.
+All of this was accentuated by it's beady eyes,
+still gleaming with hatred, even after it's death.
+
+<!-- A figure rose from the recently slain body. -->
+<!-- TODO: describe the soul being torn apart between them -->
 
