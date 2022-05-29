@@ -326,11 +326,163 @@ just below two holes that made up it's nose.
 All of this was accentuated by it's beady eyes,
 still gleaming with hatred, even after it's death.
 
-<!--
 It hadn't been dead for long, before movement began again.
 This time, invisible.
 A figure rose from the recently slain body,
 reminiscent of the one that left the goblin I had killed.
-TODO: describe the soul being torn apart between them
+Remembering back, I braced myself for what was to come.
+Then, without the participants' knowledge, a fight started once more.
+A fight for the spoils of the battle,
+only seen by the suffering of the vanquished demon,
+which was being torn at by those around it.
+
+The incorporeal demon, helpless as it was,
+didn't let itself be consumed without a fight,
+and tried to flee towards the sky.
+It looked as though our victim was having pieces of flesh ripped from it,
+to be consumed by the humans surrounding it,
+before it eventually managed it's retreat.
+I, too, wasn't spared from taking part in this vicious feast.
+
+I knew of the strength this would lend me, and the adventurers with me,
+and saw how it weakened the demon, which would, inevitably, be reborn.
+Still, no matter how advantageous the process was, it made me uncomfortable.
+No small part of this discomfort stemmed from the fact
+that this vocation had been suggested by Fate.
+I didn't trust the sphynx's word,
+but had to admit that it was in her interest, too, for me to gain strength.
+
+By the time the soul had escaped,
+and my attention returned to the physical world,
+I saw Roy holding the treelin's severed tail.
+Without much pause,
+he threw the appendage into an empty bag hanging from his back,
+then said something I didn't understand.
+It was probably a name, considering the length, but even if it was,
+I had never heard any name like it before.
+
+Unaffected by my confusion, however, a scrawny woman, from an unknown land,
+responded by moving into the jungle,
+just like the previous scout had done before her.
+This time, I paid close attention to the example being set.
+Her movements were much slower than I had just seen,
+but she was currently not being followed.
+Instead, she seemed focused on her surroundings,
+looking up and around herself, especially towards the tops of the trees.
+
+I watched her for as long as I could, at first directly, then only her aura,
+but eventually even that faded, blocked by the thick jungle between us.
+It seemed to have been a quirk of the spell,
+which hadn't been blocked by much thicker masses of stone in the dungeon,
+but I refused to put any more power into it,
+opting to stay ignorant of the many bugs around me.
+And so I waited, until the second scout, just like the first, came running back.
+
+Not long after I spotted her once more,
+I heard another phrase from Roy, and just like last time,
+someone left their hiding spot to search through the forest.
+The third hunter was long gone once the second returned with her catch.
+I expected a similar sequence of events to what I had just beheld,
+but this time, when the treelin was jumped, it didn't stop.
+Unlike the other, this treelin dodged through the gap between two attackers.
+
+This was all I was able to make out of the battle, from my hideout,
+where I only had the appearances of their souls to go off of.
+So, when the battle suddenly ended afterwards, I was at a loss,
+as I had merely seen the treelin collapse without a clear cause.
+Leaving my refuge allowed me to recognize the reality of the situation,
+when I saw a woman pulling her knife from the spine of the corpse.
+It hinted at terrifying skill.
+
+> Newbie, your turn.
+
+Roy's instruction overlapped with everyone's
+glutenous gorging on the emerging soul.
+The spectacle made me glad to flee into the trees,
+even whilst I felt ill-prepared.
+At first my progress was hasty, but I soon slowed to a more methodical search.
+My search, however, was not focused up above, but on the path I made for myself.
+Trees, roots, bushes,
+I looked for every obstacle that would hinder my safe return,
+memorizing them as best I could.
+
+The jungle was filled with life.
+Birds in the trees, which I ignored, snakes everywhere, which I avoided,
+and many other small animals lurking and hiding in the shade.
+Peeking beyond these creatures, I spied what I was looking for,
+while still within sight of my company.
+Gladly accepting this lucky find, I lowered my stance and quieted my steps.
+Would I have made noise, I was sure to have drawn in the beast,
+but there was one last thing for me to confirm.
+
+With the decreasing distance, I became sure. It was alone.
+Not spotting any other hostiles in my vicinity, it was time to make my move.
+I broke a branch and let out a grunt, all while keeping my focus.
+They weren't blunders on my part, so I kept going,
+making increasingly loud sounds, until the treelin reacted.
+It maneuvered it's way in my direction, slowly at first,
+but gaining speed, once it recognized my presence.
+
+I ran. It's attention had been drawn,
+so only the return trip remained for a successful first assignment.
+I dodged between trees, brushed aside vines, and stepped over roots,
+rushing back to the combatants who would kill my pursuer.
+Looking back at every opportunity, I was spurred on by my shrinking lead.
+Were it to catch up to me, I had little hope of defeating it with
+the rusty dagger I had no experience with.
+My shield, on the other hand, provided me more protection
+from the passing foliage than I anticipated it to help in battle.
+
+Luckily, my worries didn't come to pass.
+With some distance remaining, I ran into the location of the ambush.
+What I encountered there, however, wasn't what I had thought I would.
+Instead of hiding, our fighters stood around their last victim,
+which they must have killed while I was gone.
+Their surprise mirrored mine, as I passed them,
+leaving my worries for them to deal with.
+
+Once I felt safe to turn around, I witnessed the treelin's attack,
+as it came flying from above, towards one of the fighters.
+Dodging by a hair's breadth, he left the fiend stumbling to the ground,
+where it was impaled by Roy's sword.
+The targeted combatant left out a curse I couldn't translate,
+but still fully understood the meaning of.
+
+> Damn it. That was faster than I thought.
+
+> Should 'a sent you out later.
+
+Our leader's words were the last anyone spoke of the event.
+None gave the impression of faulting me for it,
+nor did they seem very concerned with it, at all.
+And so we moved on.
+
+This first station, now littered with four new corpses,
+was left behind, as we moved deeper into the jungle, along the city's wall.
+Once we'd moved far enough, the hunt continued just like it had started,
+drawing in round after round of treelin.
+
+<!-- TODO: describe the struggle for the feather
+> Damn. He's a goner…
+
+> He's still alive.
+
+A woman's voice reached my ears, rough as the rocks in Shatter Valley.
+
+> He's about not to be.
+
+> You owe him the pay for the job.
+
+> We don't pay the dead. You know that as well as I do.
+> Whaddaya want me to do?
+
+> We can't just leave him here! Take him back to the temple.
+
+> To do what? He can't feed himself, how do you suppose he'll afford treatment?
+> Drop it. You know we don't do that kind o' thing,
+> just because he reminds you of…
+
+I didn't hear the rest, but the last thing I saw, before passing out,
+was a burly man dropping to the ground next to me.
 -->
 
