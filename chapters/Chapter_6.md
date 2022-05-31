@@ -461,6 +461,20 @@ This first station, now littered with four new corpses,
 was left behind, as we moved deeper into the jungle, along the city's wall.
 Once we'd moved far enough, the hunt continued just like it had started,
 drawing in round after round of treelin.
+My own missions also followed the precedent set by the first,
+in that I encountered my victims quite close to my backup without fail.
+It lead me to conclude that treelins, while probably as prevalent as goblins,
+spread out far more evenly, each keeping to themselves.
+
+This hypothesis was only slightly curbed when one of my colleagues
+brought along a pair of the pests together.
+The ensuing scuffle, whilst chaotic, passed without any major injuries.
+It wasn't the only time the usual slaughter was interrupted like this,
+and eventually I, too, stumbled upon such a duo.
+Seeing them huddled together in a tree, I withdrew as quietly as I could manage,
+no matter how slim the chance of them noticing me at our considerable distance.
+Giving a wide birth to the danger,
+I chose a different path after reporting back.
 
 <!-- TODO: describe the struggle for the feather
 > Damn. He's a goner…
