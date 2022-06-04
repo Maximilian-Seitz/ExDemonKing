@@ -513,7 +513,7 @@ Nothing stopped them. Every attempt to regain control worsened my condition.
 
 > Hey, calm down!
 
-I had been naïve. I had thought myself safe.
+I had been naive. I had thought myself safe.
 I had thought being able to see a threat would be enough.
 Now, my body had ceased to listen to any of my commands.
 Damning myself for my failure to fight back,
