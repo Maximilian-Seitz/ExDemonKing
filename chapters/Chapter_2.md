@@ -13,8 +13,8 @@ I decided to start walking.
 Without any sense of direction, there wasn't much deliberation.
 Forward.
 Having escaped so far, I wasn't intending on letting myself be caught up to.
-The teleportation trap had few patterns in it's choice of targets,
-but it's range was still limited.
+The teleportation trap had few patterns in its choice of targets,
+but its range was still limited.
 Direct pursuit through it was impossible,
 but I likely remained in the same forest.
 Leaving this region, and eventually the kingdom, was inevitable.
@@ -117,7 +117,7 @@ With these in mind, I grabbed the first branch.
 Contorting my body through the gaps allowed me to slowly close in.
 I found a nest.
 
-Left behind by it's inhabitant, a defenseless nest greeted me.
+Left behind by its inhabitant, a defenseless nest greeted me.
 I eagerly pulled myself towards it.
 Lifting my head just above, it became clear. There were eggs.
 Three small eggs, barely wider than my thumb, waited.
@@ -150,7 +150,7 @@ A change of clothes may help with this further.
 Another reason for the need of funds.
 
 In time, the stream joined a river.
-Vegetation flourished by it's sides, both hiding and highlighting it.
+Vegetation flourished by its sides, both hiding and highlighting it.
 I stuck by the line of tall grass.
 It passed different sections of forest, as it went on.
 Rocky ground, hills, clearings. Some easier to traverse than others.
@@ -162,7 +162,7 @@ Greeting me, were overgrown hills. Over them, smoke. Civilization.
 I hoped for humans. Goblins had a much lower affinity for trade.
 Climbing a hill, I found my hope fulfilled.
 A farm, lit by the sunset spread out slightly below me.
-Crudely woven fences marked it's border.
+Crudely woven fences marked its border.
 Within lay a barn and a small house, which was the origin of the smoke.
 Dirt tracks led from the house to a gate in the fence.
 
@@ -377,7 +377,7 @@ So I did just that.
 Bucket in hand, I headed back to the river that had guided me for so long.
 While walking, I concentrated on my mana.
 
-Experience showed it's effects, as the spell I had grown so familiar with
+Experience showed its effects, as the spell I had grown so familiar with
 was formed more easily than before.
 I was happy with the result, but not yet satisfied.
 Constant movement of mana required constant concentration,
@@ -393,7 +393,7 @@ Any tool one had was important,
 thus making it worthwhile for me to spend my spare time on enhancing this one.
 Back at the door assigned to me, I looked over the fields, focusing inward.
 
-Allowing a circuit to maintain it's structure
+Allowing a circuit to maintain its structure
 required a direct connection to tap into my flow of mana.
 Such a connection itself needed to be stable,
 using parts of the mana it diverted.
@@ -450,7 +450,7 @@ A sign of life appeared in the distance,
 growing closer with slow, but steady movements.
 Hunching into a crouch, the figure of a child become clearer,
 as the distance shrank.
-Moving directly towards me, it's goal was clear.
+Moving directly towards me, its goal was clear.
 Now was time for me to get ready,
 while direct sight between us was still blocked by the grass it hid between.
 
@@ -476,7 +476,7 @@ A hit. I felt resistance, then saw the arm bend away.
 Screeching followed.
 The arm I had thought to be pierced flailed wildly,
 knocking my pitchfork to the side.
-While I tried to recover it's position,
+While I tried to recover its position,
 the goblin leapt through the door, in my direction.
 It fell, unable to locate me.
 I took this chance, stabbing through the goblin, into the ground.
@@ -501,8 +501,8 @@ Torchlight entered the room. Ben came with it.
 He looked down to me, who sat on the ground.
 The details of the scene I had caused revealed themselves.
 A pitchfork, stuck in the wooden boards next to me feet,
-held a goblin in it's tines.
-It's entrails spread out, letting blood escape to seep into the wood.
+held a goblin in its tines.
+Its entrails spread out, letting blood escape to seep into the wood.
 
 > You're shaking all over! Did it get you anywhere?
 

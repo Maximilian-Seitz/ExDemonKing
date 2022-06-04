@@ -24,7 +24,7 @@ but also robbed me of my sole chance for respite.
 As I considered this, I passed some thicket, and saw it.
 A goblin.
 No time remained to stop, or even acknowledge this creature.
-It's fowl grimace turned to me. It, too, was surprised,
+Its fowl grimace turned to me. It, too, was surprised,
 but not alone, as I soon learned.
 With no will to turn back,
 I dived straight into the group of hip-high humanoids.
@@ -73,7 +73,7 @@ they would, at the very least, serve to cover my tracks.
 
 Thinking this, I glimpsed what I had hoped to find.
 Before me lay a small valley devoid of trees.
-It's ground, covered in mud, was inhabited by boars.
+Its ground, covered in mud, was inhabited by boars.
 Even the smallest among them exceeded my height.
 
 > Shit!
@@ -105,7 +105,7 @@ Concerns about our fighting force faded quickly,
 as their numbers before my eyes grew.
 They would do.
 
-The approaching unit wasn't without it's dangers,
+The approaching unit wasn't without its dangers,
 as some rocks hitting my chest taught me.
 Still, I held out. This wasn't the time to be hasty.
 The steep slope behind me would allow for a quick escape,
@@ -147,7 +147,7 @@ Leaving the scuffle was necessary, but also left me exposed.
 Carefully observing my surroundings, I noticed it.
 I had been spotted.
 
-Not by a goblin. A beast furrowed it's snout. It's head turned in my direction.
+Not by a goblin. A beast furrowed its snout. Its head turned in my direction.
 Did it smell me? It didn't matter.
 
 My crawl became more upright. Less concealed, but faster, I had hoped.
@@ -159,7 +159,7 @@ I flew. Then hit the hard ground. Hard ground.
 With the return of my senses, I knew quickly what this meant.
 I had reached the dungeon's entrance.
 The boar stood not far from me, ready for another charge.
-Blood dripped from it's tusk, running into it's mouth.
+Blood dripped from its tusk, running into its mouth.
 
 This chance couldn't be wasted. No time remained to even turn around.
 I pushed my body back. Scraping along the ground, I hurried,
@@ -171,7 +171,7 @@ but for me, it meant safety. The death, which approached me, slowed down.
 Interest was lost, as if I had never existed to begin with.
 Such was the effect of a dungeon.
 
-Contrary to it's appearance, no barrier blocked the way.
+Contrary to its appearance, no barrier blocked the way.
 The environment within these walls was flooded with mana.
 That's what dungeons were.
 Most creatures would be able to enter, even that boar.
@@ -267,7 +267,7 @@ No. Something moved.
 At first I didn't notice, and by the time I did,
 it had become unclear what had triggered it.
 Still, something moved.
-It had gone unnoticed due to it's magnitude.
+It had gone unnoticed due to its magnitude.
 The familiar flood had been reduced to no more than a trickle.
 
 > It'll have to do.
@@ -280,7 +280,7 @@ The light spell, while universally known, wasn't within my experience.
 Not once had I seen this spell be cast, so I wasn't confident in reproducing it.
 Instead, I pooled the mana in my eyes.
 
-I formed the little mana there was, hoping it would achieve it's purpose.
+I formed the little mana there was, hoping it would achieve its purpose.
 Shaping it into the image in my mind like clay,
 I was able to form a somewhat stable spell.
 Soul sight.
@@ -297,7 +297,7 @@ Many had died. The ghosts would soon disperse, seeking vessels to be reborn in.
 Visible souls weren't limited to ghosts.
 Members of the clashing groups shone with faint auras.
 Satisfied with my findings, I turned around.
-Darkness welcomed me. The spell, on it's own, wouldn't solve this,
+Darkness welcomed me. The spell, on its own, wouldn't solve this,
 but the protection it provided was invaluable.
 
 I stumbled ahead. One arm extended, the other compressing my bleeding.
@@ -344,7 +344,7 @@ I had to find another way.
 
 Approaching the tunnel section beneath my enemy, I detected not a twitch.
 Weather it was inattentive or patient, I couldn't tell.
-Since I was neither willing to step into it's trap,
+Since I was neither willing to step into its trap,
 nor able to initiate out fight, I needed to lure it somehow.
 Chances of survival were slim, should it drop on my head.
 
@@ -363,7 +363,7 @@ Satisfied with myself, I continued onward.
 Toughing the wall, to find my bearings, I felt some numbness in my arm.
 Contrary to my initial belief, it seemed some poison had reached me.
 I sighed. Numbness was preferable to a burn.
-Worrying about poison was only going to fasten it's spread.
+Worrying about poison was only going to fasten its spread.
 
 My feet began to feel more steady.
 It was unconnected to the poison. It was the ground.
@@ -379,7 +379,7 @@ This life took the shape of
 what could only be described as a puddle on the ground.
 A deadly trap for most was rendered impotent by my garments.
 Just like a puddle of rain water, it scattered as I leapt into it.
-Without a form to circulate it's mana in, it died, leaving me blind once more.
+Without a form to circulate its mana in, it died, leaving me blind once more.
 My assumption seemed to have been somewhat correct.
 The gap between the wall and where I had arrived measured two arm spans.
 
@@ -393,16 +393,16 @@ covered by some walls, another form appeared.
 Much more defined than the arbitrarily contorting.
 A rat.
 
-Fattened up by it's energetic surroundings, it grew up to my knee.
+Fattened up by its energetic surroundings, it grew up to my knee.
 This ferocious foe wasn't one I would approach lightly.
 Jumping, biting, slashing.
-Once a junk of flesh was ripped from it's victim, most would fail to respond.
+Once a junk of flesh was ripped from its victim, most would fail to respond.
 I was no different. I had to prepare beforehand.
-Standing still, I observed it's movements.
+Standing still, I observed its movements.
 
 No pattern became clear to me. It was still a rat.
 It moved carelessly and with no discernible objective.
-Eventually it made it's way in my direction.
+Eventually it made its way in my direction.
 I felt unprotected.
 Remembering the last corner, I retreated a few steps.
 This might afford me the element of surprise.
@@ -412,15 +412,15 @@ Few options lead to a quick decision.
 I pulled the dangerous residue from my belt, holding the opened vial in my hand.
 The rat approached. I hoped my boots were still covered.
 It turned the corner.
-I swung the bottle, scattering it's contents.
+I swung the bottle, scattering its contents.
 My foot flew. A squeal echoed. The rat, it fled.
 
 Having clearly scared the predator, I couldn't let this advantage go to waste.
 Sprinting off, it would clearly lead me into a trap.
 I followed.
-No wall was needed to guide me. The native knew it's path.
+No wall was needed to guide me. The native knew its path.
 Where would it take me, I wondered. In the end, one safeguard remained.
-Should it run to it's home, I could see it's comrades before they saw me.
+Should it run to its home, I could see its comrades before they saw me.
 So I faithfully followed.
 
 The chase continued around a some corners.
@@ -431,7 +431,7 @@ I had been running on fumes for too long already,
 but I decided to keep up.
 
 As if sharing my pain, my prey suddenly slowed down.
-Putting little trust in it's empathy, I looked out for it's trick.
+Putting little trust in its empathy, I looked out for its trick.
 I kept going. Our distance shrank. I had almost reached it,
 when it jumped.
 It jumped to the left. I went straight.
@@ -440,7 +440,7 @@ A flash.
 I closed my eyes. Overwhelmed by the sudden light, not even my spell would work.
 Yet, the darkness did not return.
 I didn't open my eyes, but started seeing many specks, but no rat.
-The rat had disappeared. Or rather, I had fallen for it's trap.
+The rat had disappeared. Or rather, I had fallen for its trap.
 I had disappeared.
 
 I opened my eyes. Around me, there were trees.

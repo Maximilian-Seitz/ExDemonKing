@@ -33,8 +33,8 @@ and looked like it had been carved into the stone.
 No door blocked access to establishment,
 but I suspected it to be the safest location in the country nonetheless.
 Though it may have been the most dangerous for some, myself possibly included.
-It's furnishing resembled that of a tavern, and so did it's size.
-Only it's height was lacking,
+Its furnishing resembled that of a tavern, and so did its size.
+Only its height was lacking,
 resulting in an oppressive atmosphere, similar to that of a prison.
 Light, while dim, was being shed by stones embedded into the walls and ceiling.
 
@@ -166,7 +166,7 @@ I had never held a proper sword before,
 so there wasn't anything specifically I was looking out for.
 Still, there was something that caught my eye.
 They were all exceptionally short.
-Not quite as short as my dagger, but none exceeded thrice it's size.
+Not quite as short as my dagger, but none exceeded thrice its size.
 
 Getting close to a creature as terrifying as a leaping goblin
 was already horrifying enough, but doing so
@@ -187,7 +187,7 @@ Roy, who was finishing his preparations next to me, nodded.
 
 After using both hands to extract it from what was piled on top,
 I produced a shield from the container.
-Scratched leather bound the round wooden board that made up it's body.
+Scratched leather bound the round wooden board that made up its body.
 Two straps were the only other feature it possessed,
 but with a width that surpassed my shoulders, I felt somewhat safe behind it.
 
@@ -289,7 +289,7 @@ when it came back into sight, along with another being in tow.
 The second creature was, just as described, the size of a goblin.
 What wasn't like a goblin's, was the movement.
 Chaotically jumping from point to point, it gave the impression of a flea
-staying off the ground and just behind it's target.
+staying off the ground and just behind its target.
 A target which was moving directly towards us.
 
 Watching my comrade dashing through the dense forest,
@@ -310,21 +310,21 @@ A slash so quick that it left me wondering what had happened.
 
 Then, there it lay.
 Reddish brown fur covered the corpse from head to finger-like toe.
-Other than it's size, nothing about it resembled a goblin,
+Other than its size, nothing about it resembled a goblin,
 but it was still equally grotesque.
-All four of it's limbs, much too long for it's body,
+All four of its limbs, much too long for its body,
 were endowed with appendages resembling fingers,
 but warped by the inclusion of an additional knuckle,
 and adorned by a sharp claw.
-A tail was visible from behind it's back,
+A tail was visible from behind its back,
 long and firm enough to serve as another limb.
 
-None of that was what caused my sense of discomfort at it's sight though,
+None of that was what caused my sense of discomfort at its sight though,
 but it revolting maw.
-Sharp teeth lay bare, covering the majority of it's grimace,
-just below two holes that made up it's nose.
-All of this was accentuated by it's beady eyes,
-still gleaming with hatred, even after it's death.
+Sharp teeth lay bare, covering the majority of its grimace,
+just below two holes that made up its nose.
+All of this was accentuated by its beady eyes,
+still gleaming with hatred, even after its death.
 
 It hadn't been dead for long, before movement began again.
 This time, invisible.
@@ -340,8 +340,8 @@ The incorporeal demon, helpless as it was,
 didn't let itself be consumed without a fight,
 and tried to flee towards the sky.
 It looked as though our victim was having pieces of flesh ripped from it,
-to be consumed by the humans surrounding it,
-before it eventually managed it's retreat.
+to be devoured by the humans surrounding it,
+before it eventually managed its retreat.
 I, too, wasn't spared from taking part in this vicious feast.
 
 I knew of the strength this would lend me, and the adventurers with me,
@@ -420,10 +420,10 @@ Not spotting any other hostiles in my vicinity, it was time to make my move.
 I broke a branch and let out a grunt, all while keeping my focus.
 They weren't blunders on my part, so I kept going,
 making increasingly loud sounds, until the treelin reacted.
-It maneuvered it's way in my direction, slowly at first,
+It maneuvered its way in my direction, slowly at first,
 but gaining speed, once it recognized my presence.
 
-I ran. It's attention had been drawn,
+I ran. Its attention had been drawn,
 so only the return trip remained for a successful first assignment.
 I dodged between trees, brushed aside vines, and stepped over roots,
 rushing back to the combatants who would kill my pursuer.

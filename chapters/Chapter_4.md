@@ -75,7 +75,7 @@ Did she know someone would come?
 
 > Think. To what end would you wield the holy sword?
 > You've experienced it yourself,
-> the futility of it's power without the right wielder.
+> the futility of its power without the right wielder.
 
 > I can learn.
 

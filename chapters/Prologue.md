@@ -37,7 +37,7 @@ his sword piercing through my skin, into my flesh, reaching my heart.
 My body still didn't move.
 The trembling hero raised his head.
 Our eyes met.
-He had known this to be a trap, yet his sword hit it's mark.
+He had known this to be a trap, yet his sword hit its mark.
 The smile on my face grew,
 as my head tilted to look down at the wide eyes before me.
 

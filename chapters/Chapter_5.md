@@ -51,7 +51,7 @@ before I finally saw another light reflect off the walls.
 What I found was a section of tunnel simply ending,
 but blocked from leading directly into the valley,
 by a gargantuan slab of stone.
-It's scale suggested it to have been a section of the mountains
+Its scale suggested it to have been a section of the mountains
 which had separated.
 There wasn't a perfect seal between the exit and the blockade,
 allowing some rays of light to pass, and, more importantly,
@@ -213,13 +213,13 @@ while others directly bordered the path.
 The elevation, which remained fairly constant throughout the valley
 became more variable, furthering my exhaustion.
 Not only the height, but also the direction varied much more now,
-as the road avoided rocks and trees impeding it's progress.
+as the road avoided rocks and trees impeding its progress.
 The sun, which I had so hoped to see,
 sometimes found gaps in the leaves, through which it shone.
 As I kept my eyes up, I eventually saw
 a distant plateau rising above the jungle.
 
-Rocks with intricate shapes adorned it's top.
+Rocks with intricate shapes adorned its top.
 I would have mistaken them for art, if they hadn't been bustling with life.
 This wasn't art, it was a city,
 barely visible from where I stood, but undeniably grand.
@@ -335,7 +335,7 @@ I stopped mingling from then on.
 
 Having kept my eyes down, it had been long into view before I noticed it.
 The plateau.
-It had been covered by the trees, but now it's majesty was mostly revealed.
+It had been covered by the trees, but now its majesty was mostly revealed.
 As far as was possible from the ground, at least.
 I expected only a bird to have ever seen the true form of the city,
 unhindered by trees, hills or rocks.

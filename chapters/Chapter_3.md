@@ -4,7 +4,7 @@ A new day had dawned, loudly announced by a local rooster.
 It was that signal which brought the farm to life.
 The cattle became active, chickens made themselves known,
 and even Ben awoke.
-The fire had gone out a while ago, but it had fulfilled it's purpose.
+The fire had gone out a while ago, but it had fulfilled its purpose.
 What remained of the goblin was only a charred lump,
 and a dagger it had used as a sword.
 Rust had encroached on the blade I now held.
@@ -105,7 +105,7 @@ Ready for my journey.
 Though I wanted to wander off right away, there was something left to do.
 A pleasant breeze accompanied me on my way back,
 waving the grass on the hills around the farm.
-Within it's bounds cows and chickens had been freed,
+Within its bounds cows and chickens had been freed,
 wandering the grounds in search for the ideal feed.
 Back at the house the open door welcomed me, along with a sweet smell.
 Sizzling could be heard from the fireplace.
@@ -327,7 +327,7 @@ were the trolls inhabiting caves between the rocks.
 Staying within the valley drastically lowered the chances of an encounter,
 so I felt fairly safe from their kind.
 
-The journey eventually took it's toll on my stamina.
+The journey eventually took its toll on my stamina.
 I hadn't become tired, but my feet and the muscles in my legs ached.
 A stream I encountered served as an adequate location to rest,
 flowing by some rocks suitable as seating.
@@ -341,8 +341,8 @@ Increasingly rocky ground made it hard to find steady footing in the dark.
 Adding to that was my first sighting of a troll.
 It barely registered as a blob as I notice it, but I took no chances,
 taking a detour that lasted a significant portion of the night.
-The beast conducted it's hunt as I did so,
-darting around at speeds unreasonable for it's size.
+The beast conducted its hunt as I did so,
+darting around at speeds unreasonable for its size.
 
 Once daybreak arrived, calm had returned to my journey.
 The second day closely followed the pattern of the first,
