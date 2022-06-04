@@ -476,21 +476,128 @@ no matter how slim the chance of them noticing me at our considerable distance.
 Giving a wide birth to the danger,
 I chose a different path after reporting back.
 
-<!-- TODO: describe the struggle for the feather
+The continuous battles transformed the excitement of danger into monotony,
+as we reached a corner of the city.
+Apart from the change in direction, I noticed another change, one within myself.
+Specifically, my mana.
+Having partaken in the consumption of souls again and again,
+the flow of my mana, which had been mostly diverted towards my eyes,
+was starting to develop a considerable surplus.
+As weak as I was, I knew this to become my strength.
+
+The ones around me, on the other hand,
+had no perceivable change to their presences.
+Weather they were somehow saturated, or I simply unable to make it out,
+I couldn't tell.
+In any case, my available energy had nearly doubled from the previous day,
+allowing me to expand my selection of available arcane abilities,
+without me having to give up my most important protection.
+
+Plans for how to best use this new-found power filled my head,
+as I was sent out once more.
+I had a general idea for what I needed the most,
+but hadn't had the opportunity to investigate its feasibility.
+With anticipation about my experiments to come,
+I approached the creature I had found, which sat on a branch in silence.
+
+Its lack of movement, and failure to notice me, suggested that it was asleep.
+I took a stone, not wanting to let it's sleep hinder me, and moved closer,
+aiming the stone in its general direction, and threw it.
+My projectile ricocheted off a nearby tree, giving off a loud clack,
+followed by movement by the awakened demon.
+Moments later it had spotted me, immediately jolting in my direction,
+with no concern for the jungle between us.
+
+The fierce fiend made up ground, while I still recovered from my throw.
+I turned, then ran. I hadn't gone far, but had been distracted.
+A root caught my leg. I stumbled. Fell.
+Focusing back on my task, I tried to remember the path, and got up.
+With scraped hands, I scaled a horizontal trunk,
+then heard a screech from behind. I faltered.
+Was it trying to intimidate me? It had worked.
+
+Feeling it gain on me, I grew more agitated.
+I approached help, but it approached faster.
+I had been too careless, too distracted by my fantasies,
+which I only had the short chance to regret until I was caught by a branch,
+stopping me for long enough. Long enough for an impact on my back.
+Claws pierced my shoulder before I felt teeth on my neck.
+
+Barely managing to intercept the bite, I grabbed the head of my attacker
+with my right hand, trying to pull it off my back. It worked.
+I saw a reddish brown being fly past my head before I felt any pain in my neck.
+Just as I felt some relief, the pain appeared, but in my fingers instead.
+The sharp pain didn't stop me from advancing,
+now with my previous prey wrapped around my arm,
+clawing at it and attacking my hand.
+
+Its flailing limbs viciously cut and tore at my skin,
+whereas my own flailing only served to further its aggression.
+Blood poured down my arm, the hand of which I barely felt at this point,
+while my attacker continued to reach for my body,
+slashing at it every chance it got.
+Gashes were drawn on my chest and cheek, mostly small,
+but some reached far beyond the skin.
+
+I finally noticed movement from my supporters, who had noticed my peril,
+but I also felt my stomach churn. Quite literally.
+Looking down on my body, I saw a stream of blood flowing from a laceration
+that reached from one side of my abdomen to the other.
+Spotting exposed innards changed my perspective.
+I had endured wounds much worse than this,
+but this time I had no elixir to save me. No way out.
+No. There was one way out.
+
+My focus changed.
+I no longer worked towards saving my life, but towards preventing the worst.
+Cursing my naivety, I reached towards my back.
+I had been prepared for death ever since I had met the sphynx,
+but I hadn't really seen it as a real threat,
+thinking myself safe in this far-off land.
+I had failed to prepare.
+Failed to take the deaths of others as serious examples.
+
+Now, using my remaining hand with a shield strapped to it, I fumbled for my bag.
+With a single goal in mind, I tore it off my back,
+barely noticing the people approaching me.
+I released the bag, dropping it to the ground,
+while stretching my other arm as far away as possible.
+Agony spread from my stomach as I kneeled down, into a puddle of my blood,
+in order to search through my belongings.
+
+My search was interrupted by an impact on my right arm,
+pulling me forward, onto my chest.
+As I raised my head, I found the remains of the treelin,
+along with my forearm, both cut in half, at Roy's feet.
+
 > Damn. He's a goner…
 
 > He's still alive.
 
 A woman's voice reached my ears, rough as the rocks in Shatter Valley.
+She wasn't important. Only my search was.
 
 > He's about not to be.
+
+Roy was right, I felt my consciousness fade, along with my strength.
+I used what remained to struggled through the bag I now lay on top of,
+until I felt the saving barbs of Fate's feather.
 
 > You owe him the pay for the job.
 
 > We don't pay the dead. You know that as well as I do.
 > Whaddaya want me to do?
 
+Grasping it with all my might, I tried to extract the arm from under me,
+but I failed. My usually light weight now felt crushing,
+denying me the only salvation I could hope for.
+
 > We can't just leave him here! Take him back to the temple.
+
+I failed. Not through my weakness, or through the actions of others,
+but caused only by my hubris.
+I hadn't used the feather before. I hadn't paid attention to the forest.
+It was my fault.
 
 > To do what? He can't feed himself, how do you suppose he'll afford treatment?
 > Drop it. You know we don't do that kind o' thing,
@@ -498,5 +605,4 @@ A woman's voice reached my ears, rough as the rocks in Shatter Valley.
 
 I didn't hear the rest, but the last thing I saw, before passing out,
 was a burly man dropping to the ground next to me.
--->
 
