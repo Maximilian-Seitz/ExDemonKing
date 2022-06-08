@@ -48,4 +48,17 @@ Loss at a tool, but more so loss at something I had just recently regained,
 and with it, anger at it's having been taken from me,
 for so long, in the first place.
 
-<!-- Blood shone through the inner layers of the dressing -->
+I settled down, observing the crimson hue make it's way
+from the inner layers of the dressing to the outside.
+Nothing was left for me to do but wait for my wounds to close.
+Such was the nature of injuries, after all.
+My surroundings, conversely, had no such limitations,
+as evidenced by the many people passing the hall next to the door.
+Through the thick walls, only so much insight was to be gained,
+but I did notice how nonthreatening the passing individuals were.
+
+It was hard to tell weather those passing were the same ones repeatedly,
+owing to the weak presences they emanated,
+until someone came, who was clearly different.
+The newcomer didn't pass, but stepped towards my door to open it.
+
