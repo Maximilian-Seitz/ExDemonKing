@@ -61,4 +61,33 @@ It was hard to tell weather those passing were the same ones repeatedly,
 owing to the weak presences they emanated,
 until someone came, who was clearly different.
 The newcomer didn't pass, but stepped towards my door to open it.
+Their strength was apparent, even through their dull aura.
+An aura so dull, that this, in and of itself, was of note,
+simply presenting as an intricate duplicate of a person's physical traits.
+
+All auras mirrored the physical bodies which they governed to some degree,
+but in others it guided the formation of a sort of caricature,
+like Roy, covered in blood, or the divinity of the sphynx.
+Weaker souls still followed the same principle,
+though less refined and exaggerated,
+and even demons were somewhat influenced by the bodies they manifested in.
+Still, none I had seen came even close
+to the detailed image now shining through the door.
+
+The man, clearly native to this city,
+was dressed in nothing but a long grey robe, bound around the waist with twine.
+For all the intricacies of his appearance, this was his only accessory.
+It was the dress of the faithful, at least where I had grown up,
+so I felt it reasonable to assume him to be pious, presenting like this.
+No hair grew on his brown head,
+but his face was handsome and underlined by a square jaw.
+
+As the door opened, the only difference
+in the overlapping images I saw was a leather bag he carried in his hand,
+formed like a small chest, held closed by two leather straps with buckles.
+His gaze fell on my hand, held above my head,
+lingered there for a short moment, then met mine.
+He reacted with a bright, but calming, smile.
+
+> How good to see you awake.
 
