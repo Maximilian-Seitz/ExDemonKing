@@ -45,10 +45,10 @@ apathetic towards any damage it sustained,
 even now that I lacked the means to heal it.
 Still, I felt loss.
 Loss at a tool, but more so loss at something I had just recently regained,
-and with it, anger at it's having been taken from me,
+and with it, anger at its having been taken from me,
 for so long, in the first place.
 
-I settled down, observing the crimson hue make it's way
+I settled down, observing the crimson hue make its way
 from the inner layers of the dressing to the outside.
 Nothing was left for me to do but wait for my wounds to close.
 Such was the nature of injuries, after all.
@@ -90,4 +90,69 @@ lingered there for a short moment, then met mine.
 He reacted with a bright, but calming, smile.
 
 > How good to see you awake.
+
+> Have you been taking care of me?
+
+> Yes, with help from others from the temple.
+> I have come to change your bandages, but didn't think you were awake.
+
+> Then I thank you, and the other faithful as well. I'm in your debt.
+
+> No. You are a citizen of this city, after all.
+
+> Sarah will explain… It was her idea.
+
+He sounded uncomfortable with the information he volunteered,
+so I chose to hold back with my inquiry.
+There was something else on my mind instead.
+
+> Have my belongings been brought with me?
+
+> Most of them were destroyed. I keep all others…
+
+Saying so, he placed the bag he had brought on the floor,
+undid its buckles with dexterous movements,
+and produced a wooden box large enough to hold a dagger.
+
+> …including this.
+
+Holding the box at an angle, so that I would see the contents,
+he carefully lifted its lid. Inside was a feather. My feather.
+
+> You still held it tight while asleep. Is it important to you?
+
+Was he planning to hold it captive? Was this why he had said I had no debt?
+I doubted he could even know its function.
+While questions raced through my mind, there was nothing I could do,
+and what had appeared as a kind smile, until just then, now seemed wicked.
+
+> Oh, don't worry. I don't plan to take it from you.
+
+> But I want to ask where you found it.
+
+> A old man… a farmer, he gave it to me. I saved his life from a goblin attack.
+> He claimed the hero gave it to him, as protection.
+
+Feigning a connection between the artifact and the hero seemed reasonable,
+as a way to obfuscate the feather's connection to Fate, along with my own.
+Without knowing the extent of his insight,
+I tried to minimize the additional information I provided.
+
+> Is that so? Then you should make sure not to lose it.
+> Divine artifacts are precious, and dangerous in the wrong hands.
+
+After closing the box, with as much care as he used to opened it,
+he approached my bed and placed it near my shoulder.
+Only then did the man return to fetch the bag he had left behind.
+
+> Now hold out your arm. I will rebandage the wound.
+
+I followed the instruction obediently,
+and had the wrappings removed from my stump.
+Below it, where I expected to see my flesh, a dark green substance was revealed.
+Some structures resembling small leaves were visible,
+even through the gelatinous mass of dark blood covering it.
+Though grotesque, none of it was removed, only a layer of fresh herbs added,
+provided by the leather bag.
+To cover them, a stripe of cloth then bound the wound.
 
