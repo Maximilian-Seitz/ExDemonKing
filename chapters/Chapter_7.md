@@ -98,9 +98,9 @@ He reacted with a bright, but calming, smile.
 
 > Then I thank you, and the other faithful as well. I'm in your debt.
 
-> No. You are a citizen of this city, after all.
+> No. You are a citizen of Hest, after all.
 
-> Sarah will explain… It was her idea.
+> Auli will explain… It was her idea.
 
 He sounded uncomfortable with the information he volunteered,
 so I chose to hold back with my inquiry.
@@ -155,4 +155,52 @@ even through the gelatinous mass of dark blood covering it.
 Though grotesque, none of it was removed, only a layer of fresh herbs added,
 provided by the leather bag.
 To cover them, a stripe of cloth then bound the wound.
+
+> Keeping it up, as you did, helps, but try not to move it too much.
+> The same is true for your whole body, really.
+> Herbs have their limits, and these mainly dull the pain.
+
+> I'll be mindful of it.
+
+> I will go send for food and drink now. You have lost too much blood.
+
+> I will also tell Auli about your awakening. I'm sure she'll be here first…
+
+Letting out an exhausted sigh with the last sentence,
+my physician retrieved the surplus herbs and bandages,
+then left through the only door in the room.
+That same door didn't remain closed for long however,
+flying open with enough force to put its structure at risk.
+An overwhelming aura had appeared,
+but had left me with no chance to process any information about it
+before my intruder made their startling entrance.
+
+> Ah, you're up!
+
+The soul and voice were ones I recognized.
+A female fighter alongside whom I had journeyed into the jungle,
+and the one I had heard moments before passing out.
+Along with her, she carried an inferno.
+Not hot, but still overpowering my senses.
+The chestnut colored hair flowing to her upper back
+was covered in a veil of flame as wild as her entry,
+and her face in a wide toothy grin.
+Unbothered by my lack of response, or the noise of the creaking door,
+she approached with pride.
+
+> It's about time! Sutarbi said you'd die, but I told him not to let you.
+
+I shared nether her enthusiasm about the situation,
+nor her faith in this threat's effectiveness, but kept it to myself.
+
+> Greetings. I, too, am surprised by my survival.
+> I believe you, among others, are to thank for it?
+
+> Well, I just though it'd be best to get you
+> outa that damn forest, and into the city.
+> Priests took care of rest, really.
+
+> Only hassle was how to get them to help you,
+> but nothing worth loosing a good scout over!
+> And it looks like it was worth it.
 

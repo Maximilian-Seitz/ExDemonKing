@@ -1,14 +1,29 @@
+-- Main Cast --
+
 MC
 	- Uses Martin as his alias
 		- Not sure if it's his real name
 		- Name of the hero
 
-Hero (Martin)
-
 Demon King (unnamed)
 	- Used to posess MC
 	- Now posesses the hero, Martin
 	* Demon: Fog of smoke (purple)
+
+Hero (Martin)
+
+Sutarbi (Adventurer)
+	- Met in the stone city
+	* Born citizen of the stone city
+	* Bald
+	* Aura: Mimics his physical body, along with his robe
+
+Auli (Adventurer)
+	- Met in the stone city
+	* Immigrated citizen of the stone city
+
+
+-- Farm --
 
 Greg
 	- Farmer MC met after escaping Demon King
@@ -61,8 +76,6 @@ Barkeeper (Adventurer's Bar)
 
 Roy (Adventurer)
 	* Burly
-
-
 
 
 
