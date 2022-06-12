@@ -184,7 +184,9 @@ Along with her, she carried an inferno.
 Not hot, but still overpowering my senses.
 The chestnut colored hair flowing to her upper back
 was covered in a veil of flame as wild as her entry,
-and her face in a wide toothy grin.
+and her face showed a wide toothy grin.
+Her physical appearance was that of someone from across the Shatter Mountains,
+same as myself.
 Unbothered by my lack of response, or the noise of the creaking door,
 she approached with pride.
 
@@ -318,4 +320,10 @@ The girl's spirit returned with the same
 lack of consistency it disappeared with, along with the potency of her flame.
 
 > Great, with that we're gonna be companions!
+> I'm Auli, by the way.
+
+> It's a pleasure to make your acquaintance. I'm Martin.
+
+> Oh, and Martin,
+> from now on you're gonna have to pretend that you're my little brother.
 
