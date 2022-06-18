@@ -106,3 +106,61 @@ pushing out the thoughts which plagued me as much as I could.
 Enthralled by the process, I was ignorant of my surroundings,
 leaving me surprised at the approaching guest.
 
+> She's taken a toll on you, hasn't she?
+
+The priest Sutarbi stood next to my bed,
+holding the same bag he had brought for his last visit.
+
+> I have made sure she knows the weight of your injuries,
+> and will respect the time you will take to heal from now on.
+
+> It wasn't as issue. I rather appreciated her visit, in fact.
+
+> No, it was. You, too, have been reckless, pushing yourself to stay awake.
+> Had I known, I would have sent her away much sooner.
+
+> I'm sorry.
+
+> Don't be. It is my domain to educate you on this.
+> Doing better from now on is all I can ask of you.
+
+> I'll strife to take my condition into account going forward.
+
+My promise gave rise to a small smile on the man's face.
+
+> My child, your lies are clear to see for even those who have lost their sight,
+> and clear to hear for even those who have lost their minds.
+
+The calm, but blunt, reply made my heart sink in an instant.
+I hadn't lied, I thought,
+but certainly couldn't be said to have spoken the truth either.
+
+> Being her brother, on the other hand,
+> seems to be a lie you will tell without causing any doubt.
+> You both are driven to go further than you should.
+> In fact, you should be sleeping as we speak,
+> given the amount of herbs applied to your wounds.
+
+> Well, I should uses the chance to apologize myself.
+> When we last spoke, I mentioned your citizenship, but didn't explain.
+> I did so knowing it would cause you discomfort,
+> selfishly pushing that duty to Auli.
+> For that, I am sorry.
+
+I thought of how to respond to this unexpected topic,
+but didn't have a chance to, as Sutarbi moved on right away.
+
+> I should also use the chance to increase the dosage of medicine you receive,
+> since you have proven your resistance to its effect.
+> Hold out your arm.
+
+With my bandages changed, I felt a fog return to my thoughts,
+which I had felt when I had awakened before.
+At my physician's behest, I was able to eat most of the food I had been given,
+but fell into a deep slumber shortly after.
+It was a slumber with few interruptions.
+Fruits were to me, while I was half asleep,
+and I barely noticed the regular changings of my dressings.
+No matter how much I tried to practice the use of my mana whenever I woke up,
+I only found myself drift away as soon as I did.
+
