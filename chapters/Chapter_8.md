@@ -150,17 +150,46 @@ but certainly couldn't be said to have spoken the truth either.
 I thought of how to respond to this unexpected topic,
 but didn't have a chance to, as Sutarbi moved on right away.
 
-> I should also use the chance to increase the dosage of medicine you receive,
-> since you have proven your resistance to its effect.
+> I should also use the chance to increase your dosage of medicine,
+> since you have proven your resistance to it.
 > Hold out your arm.
 
-With my bandages changed, I felt a fog return to my thoughts,
+With my bandages changed, I felt the same fog return to my thoughts,
 which I had felt when I had awakened before.
 At my physician's behest, I was able to eat most of the food I had been given,
 but fell into a deep slumber shortly after.
-It was a slumber with few interruptions.
-Fruits were to me, while I was half asleep,
+The pain which had been with me had become imperceptible,
+and it was a slumber with few interruptions.
+Fruits were fed to me, while I was half asleep,
 and I barely noticed the regular changings of my dressings.
 No matter how much I tried to practice the use of my mana whenever I woke up,
-I only found myself drift away as soon as I did.
+I only found myself drift away at every attempt.
+
+Days passed, from most of which I retained no memory,
+until my thoughts started to regain the focus they had had before.
+When that time came,
+my constant companion throughout these struggles was there to welcome me awake.
+Explaining that my wounds had mostly healed,
+and about my lack of apparent remaining ailments,
+he declared the conclusion of my treatment.
+
+> But don't be mistaken. Your condition is still serious,
+> and you won't be able to move in many ways you would have before.
+> In fact,
+> I have to admit that there are some personal reasons for your early release.
+
+> Personal reasons?
+
+> There's one person in particular, who is the reason.
+> She's been busy for a while, but has now become more bothersome.
+> It may be best for you to meet her, and make a choice for yourself.
+> I can advise you, but won't force you to rest,
+> now that you are well able to move on your own.
+
+> There are things I don't have any right to interfere with.
+
+As he made this concession, his eyes wandered,
+stopping next to my head, where a box still remained.
+Having tried my best to stay conscious of its presence for the last few days,
+I wouldn't fail to put it to use a second time.
 
