@@ -181,9 +181,10 @@ he declared the conclusion of my treatment.
 > Personal reasons?
 
 > There's one person in particular, who is the reason.
-> She's been busy for a while, but has now become more bothersome.
+> She's been busy for a while, but has now become more bothersome,
+> saying that you have agreed to continue your work as a scout.
 > It may be best for you to meet her, and make a choice for yourself.
-> I can advise you, but won't force you to rest,
+> I would advise you to rest for longer, but won't force you to do so,
 > now that you are well able to move on your own.
 
 > There are things I don't have any right to interfere with.
@@ -192,4 +193,41 @@ As he made this concession, his eyes wandered,
 stopping next to my head, where a box still remained.
 Having tried my best to stay conscious of its presence for the last few days,
 I wouldn't fail to put it to use a second time.
+
+> Yes. I should, at the very least, meet her.
+
+While I appreciated Sutarbi's concerns,
+I lacked the knowledge required to make an informed decision.
+I anticipated the remnants of my injuries to be of little concern for me,
+who focused on the direct use of mana as a weapon.
+No. Not only that. I wanted to act.
+Having been bound to this bed for all too long,
+I felt as though I had been loosing ground.
+Getting to a state where I would be able to defend myself was not so trivial
+as to be achievable from within the safety of temple.
+I needed to train, and Auli had offered to train me.
+
+> Then I will leave you to get ready for departure.
+> And I have brought some items of clothing.
+
+> Thank you.
+
+I was wary of this man.
+A man whom I had never met before, who must have spent hours caring for me
+throughout the past few days, refusing any sort of reimbursement.
+They were actions unlike those of any man of faith I had known before,
+who used the words of their gods as justification for their own selfish goals.
+Just like those others, however,
+I knew his actions to be contingent on some outside factor.
+In his case, it was my citizenship.
+While Auli had told me about its controversial nature,
+I hadn't been sure about the extent of what this status implied.
+
+Still, I had accrued a significant amount of debt towards these people,
+who had cared for me, regardless of the reasons for this help.
+It was obvious to expect recompense from those
+to whom support had been extended.
+In that sense, I had been a great gamble on their part.
+Supporting those who had nothing, and no ability to show for,
+would always be dangerous.
 
