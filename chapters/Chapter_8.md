@@ -212,8 +212,7 @@ I needed to train, and Auli had offered to train me.
 
 > Thank you.
 
-I was wary of this man.
-A man whom I had never met before, who must have spent hours caring for me
+A man whom I had never met before, who had spent hours caring for me
 throughout the past few days, refusing any sort of reimbursement.
 They were actions unlike those of any man of faith I had known before,
 who used the words of their gods as justification for their own selfish goals.
@@ -222,12 +221,23 @@ I knew his actions to be contingent on some outside factor.
 In his case, it was my citizenship.
 While Auli had told me about its controversial nature,
 I hadn't been sure about the extent of what this status implied.
+To me, it implied a debt. An implicit one, making me wary.
 
 Still, I had accrued a significant amount of debt towards these people,
 who had cared for me, regardless of the reasons for this help.
 It was obvious to expect recompense from those
-to whom support had been extended.
+to which support had been extended.
 In that sense, I had been a great gamble on their part.
 Supporting those who had nothing, and no ability to show for,
-would always be dangerous.
+could result in them being unable to provide any payment at all.
+I, who had not only displayed my lack of funds,
+but had also just received a permanent debilitation,
+could not have expected anyone to raise me up.
+
+Having decided to indulge them until this matter was repaid to my satisfaction,
+I went to inspect that which had been left for me.
+A neat stack of cloth had been placed on the chair next to my bed,
+among which some red fabric was visible.
+The top item had long sleeves and the cut of the upper garments of the locals,
+and below it, I found a matching pair of trousers.
 
