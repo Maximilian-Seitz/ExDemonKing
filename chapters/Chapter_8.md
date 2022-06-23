@@ -240,4 +240,96 @@ A neat stack of cloth had been placed on the chair next to my bed,
 among which some red fabric was visible.
 The top item had long sleeves and the cut of the upper garments of the locals,
 and below it, I found a matching pair of trousers.
+I picked up the latter,
+pulling them out from the pile with a jolting motion with my remaining hand,
+and started the arduous process of putting them on.
+While I did so, I couldn't help but be distracted by what had lain beneath.
+
+The cloak, which I had brought here as little more than a clump of earth,
+had regained its original vibrance of crimson and gold.
+Where it had previously been torn and cut, barely retaining its cohesion,
+it was now repaired.
+Affording it some more attention almost resulted in me falling
+with my trousers at my knees,
+but allowed me to make out some holes where pieces of cloth were missing,
+and the barely visible seams, where it had been joined together.
+For now, I left it be, even after I managed to maneuver my way into the pants.
+
+Before I went on to the remaining pieces of clothing,
+there was something else I had sworn to not forget. The feather.
+I had been planning for how to best fulfill the condition put forth by Fate,
+ensuring the artifact's efficacy, leading to me picking it up bare chested.
+For it to take effect, it ought to be attached to a body upon its death.
+A more complicated procedure than the description suggested,
+with most deaths being either sudden, or impossible to precisely pinpoint,
+forcing me to attach it to my body before anything had happened at all,
+and keeping it in place.
+
+As preparation, I unwound the bandage left around my abdomen.
+It was kept there to support the healing of the scab,
+but I doubted its removal to have much of a negative influence,
+and I had a more important use for it.
+Once the wrap was undone, I took the feather out of its box.
+I pointed it upwards and held it under my right arm,
+placing it flat along my body, then stabbed its tip under my skin.
+Not wanting blood to spill onto my new clothes, I made haste,
+and held the bandage to the insertion point.
+Pressing it down with my arm, I wrapped it around my chest,
+making sure to cover the entirety of the feather.
+
+I had expected the artifact's presence to be perceptible,
+but felt no change, other than the pain from the wound.
+Still, I was satisfied with the placement of my gift,
+and went on to finish dressing myself.
+I found my shoes below the chair, in the same condition I had last seen them,
+except for having been cleaned, and my belt had been placed under the cloak.
+No vials were left in the compartments they would have fit in,
+most likely having all broken during my struggle in the jungle.
+
+Fully dressing myself was much harder than it would have been with two hands,
+especially concerning the belt, but it was still manageable.
+Once done, I was ready to head out to join up with Sutarbi,
+who had been waiting on the other side of the door.
+With the cloak clamped under my arm I left the room,
+where he turned to me and looked me over.
+
+> How does everything fit?
+
+> It's perfect.
+
+> Don't be too quick to make your judgement.
+> You will most likely be traveling through the jungle like this.
+> Getting caught on something can be fatal, so it really needs to fit perfectly.
+
+This comment coming from a priest caught me by surprise.
+It hadn't been something I had even considered,
+showing my inexperience as an adventurer.
+I certainly couldn't argue with his logic, and checked for any loose portions.
+I only found the end of my right sleeve dangling.
+
+> It may be best to tie this up somehow.
+
+Responding to my analysis with a smile and a nod,
+Sutarbi produced a piece of string from a pocket.
+He then proceeded to tie the sleeve closed,
+in a similar fashion to how he had bandaged that same arm.
+
+> Yes, good catch. Many veterans choose to do so.
+> These are the sorts of things you will have to pay attention to from now on.
+
+This prepared string, and the accurate measurements of the clothes,
+gave me the impression that the priest had kept this in mind all along.
+
+> With this, are you prepared?
+
+> Yes, thank you. Would you perhaps know where I could find Auli,
+> since you mentioned her wanting to talk to me?
+
+> I was planning to take you there.
+> I should head there anyway,
+> and I suspect you haven't spent much time in the city,
+
+> I haven't.
+
+> Then follow me.
 
