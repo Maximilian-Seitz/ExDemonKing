@@ -333,3 +333,109 @@ gave me the impression that the priest had kept this in mind all along.
 
 > Then follow me.
 
+Sutarbi walked ahead through the narrow stone hallway
+passing by the room I had spent my recovery in.
+Doors, similar to mine, were placed
+along the same side of the passage at regular intervals.
+Some of the rooms they led to housed people, usually laying down.
+I assumed them to serve as housing for the sick, just like mine had done for me,
+since I doubted that any people of the temple would rest at this time.
+Telling the exact time in this underground facility wasn't feasible,
+but the activity of the inhabitants provided some insight.
+
+Passing by some of these inhabitants,
+who all shared the same style of grey garb, brought us to the end of the tunnel,
+where stairs were carved into the wall, leading up.
+The stone of the tunnel appeared to be entirely connected,
+as if it was carved into a single rock,
+rather than constructed from multiple smaller ones.
+The homogony of the walls was only interrupted where veins of alternate
+materials grew through them, creating streaks of white or brown
+in patterns much to intricate to be intentional.
+Some changes did appear in the basic grey, however, as we ascended the stairs,
+and a more porous nature replaced the smooth consistency.
+
+Roughly two ordinary stories higher, the stairs ended,
+leading into an enormous structure large enough for a few barns to fit inside.
+The structure was similar to temples to the gods I had seen before,
+but differed in that it wasn't closed at all.
+Three sides of the building had entrances as wide as the structural integrity
+could possibly allow, with neither doors nor gates blocking them.
+Instead, people flooded in and out of the hall unobstructed.
+Altogether, it gave more of an impression of a town square than a temple,
+with the building itself serving mainly as a ceiling.
+
+This image was only rectified by the actions of the passing people,
+and the statues strewn throughout the interior.
+Most were placed on some sort of pedestal, or surrounded by some few stairs,
+to elevate them above the crowd, and people gathered before them,
+kneeling to prey, or talking among themselves.
+I saw one man instruct a child in cleansing one of the smaller statues,
+which had no other worshipers around it,
+leading me to notice the general cleanliness of the stonework.
+Though porous and rough, neither the statues nor the building
+had the slightest green taint of moss,
+which covered the entire entrance of the city.
+
+> Are sermons held here?
+
+> Sermons?
+
+> Ceremonies where a priest speaks to the masses concerning the gods.
+
+Sutarbi stopped, and turned his head to look at the passing people.
+Once I caught up, to stand next to him, he faced me.
+
+> Only the gods have the right to voice their concerns.
+
+He responded as if baffled by the premise.
+
+> Then what is the purpose of this place?
+
+> This is a home for the gods, and their servants.
+> As with any other home, it is a place where they can be visited.
+> Many come here to talk. Telling a god about what has happened,
+> sharing their suffering or joy.
+> Others show thanks for blessings they have gotten in the past.
+
+> But these are mere statues.
+> Astonishing as the craftsmanship may be,
+> why would the gods hear anyone here more so than anywhere else?
+
+> I believe that the gods will hear us everywhere,
+> but we, as people, desire a face to talk to.
+> You, too, are welcome here any time.
+
+> I will keep it in mind.
+
+> Do not feel forced. As with any friend or companion,
+> it is your choice to be with them.
+
+> Now, let us continue. Auli is waiting.
+
+We left the place I had no plans of returning to, through the far exit.
+As we passed by the many statues,
+I noticed one carved to the size of a cat, and resembling one in form,
+except for its wings of a bird and the face of a woman.
+The features of the face were clearly once more pronounced,
+but now barely present.
+Still, I recognized this servant of the gods,
+and instinctually placed my hand at my flank, where her feather remained.
+
+> We priests may not speak for them, but we do answer questions about the gods,
+> whenever anyone brings them to us, you know. And their servants as well.
+
+My reaction didn't go unnoticed.
+
+> I'm good, thank you.
+
+> Have you heard of her? Fate, the undying sphynx?
+> She is very important where you have come from, right now,
+> since she chooses the hero.
+> When she chose a hero, not long ago, people knew of the coming danger,
+> and she has never been wrong, which is why she is called Fate.
+
+> Hasn't a hero died before?
+
+> That is true, but they still did their part to help the next hero win.
+
