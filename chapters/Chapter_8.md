@@ -439,3 +439,32 @@ My reaction didn't go unnoticed.
 
 > That is true, but they still did their part to help the next hero win.
 
+> As sacrifices?
+
+> Have you not gone into the forest to kill treelins, knowing of the danger?
+> Many die to help protect so many more.
+
+> I don't claim to know the future. She does.
+> So she sends them to their deaths knowingly.
+
+> Hmm… Her knowledge is not her claim. It is that of humans.
+> I would like to think that I would choose to be sent to my death alone,
+> if it meant others would survive.
+> This may be what makes a hero.
+
+> Didn't you say that Auli was waiting?
+
+> Yes. I am sorry for rambling.
+
+I thought his assumptions regarding the traits of a hero to have been
+quite close to the truth, but for reasons far from those he had had in mind.
+I believed the willingness to die to be required
+in order to properly serve as a pawn for the sphynx to control.
+Many had failed before my eyes from their lack of determination,
+leading them to hesitate.
+The last hero, on the other hand,
+had failed from his lack of hesitation, instead.
+He, too, had become a sacrifice.
+
+Having left the temple, the crowd around us cleared up,
+
