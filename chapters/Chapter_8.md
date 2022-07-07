@@ -467,4 +467,21 @@ had failed from his lack of hesitation, instead.
 He, too, had become a sacrifice.
 
 Having left the temple, the crowd around us cleared up,
+revealing the streets spreading through Hest.
+They, just like the jagged structures around them,
+were carved into the stone that made up the city's core.
+The constructs flanking the streets gave the impression of an artistic purpose,
+rather than a functional one.
+Elaborate appendages reached into the sky from atop most of them,
+growing like horns or winding in complex patterns.
+The buildings themselves often had curved walls,
+seamlessly feeding into these pillars, and no two within my sight were the same.
+These were the outgrowths I had seen on my approach towards the city.
+
+> Who built all of this?
+
+> Sadly, we are not sure.
+> The first citizens of Hest moved here long after it had been abandoned.
+> We also do not know why the creators left.
+> Some changes were made since, but it is mostly as it was found.
 
